@@ -16,7 +16,7 @@ MineProject is a simple implementation of the classic Minesweeper game using C++
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/SebbyDubs/MineProject.git
+   git clone https://github.com/Seb-Dion/MineProject.git
 
 2. **Install SFML:**
    - Download here: https://www.sfml-dev.org/download.php
